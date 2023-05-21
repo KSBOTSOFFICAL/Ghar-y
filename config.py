@@ -4,7 +4,7 @@ api_hash = "2beecc3ee357e6e3f2b2e783d4159f9f"
 
 bot_token = "1912844190:AAEHrTB8c1ECk1aFBTjKBggTkrbomBA43yI"
 
-GROUP_TAG = "RC"
+GROUP_TAG = "EPIC"
 
 sudo_users = [959184369]
 
