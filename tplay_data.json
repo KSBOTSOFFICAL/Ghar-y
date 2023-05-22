@@ -52,27 +52,23 @@
       "link": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1311/output/manifest.mpd",
       "k": "930f57eb8475524593ee585314c6dad3:590cea91f4dc1d69ab8d1ec74b8152cc",
       "audio": [
-        "Assam",
         "Tamil",
         "Telugu",
-        "Gujarati",
         "Kannada",
         "Odia",
         "Malayalam"
       ],
       "audio_id": [
-        "audio_122082_asm=121600",
         "audio_122092_tam=121600",
         "audio_122093_tel=121600",
-        "audio_122085_guj=121600",
         "audio_122087_kan=121600",
         "audio_122090_ori=121600",
         "audio_122088_mal=121600"
       ],
       "video_id": "video=1297600",
       "ripType": "TATAPlay TV-DL",
-      "catchup": "00:10:00",
-      "quality": "360p"
+      "catchup": "4:00:00",
+      "quality": "480p"
     }
   ],
   "CN": [
