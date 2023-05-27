@@ -9,10 +9,12 @@
       "k": "f581424c14e35eee924f0a0b9d22c81c:1b776df9fab529a5055c41dbbb070ccd",
       "audio": [
         "Hindi",
+        "Telugu",
         "English"
       ],
       "audio_id": [
         "audio_94482_hin=94000",
+        "audio_94489_tel=94000",
         "audio_94484_eng=94000"
       ],
       "video_id": "video=3187600",
