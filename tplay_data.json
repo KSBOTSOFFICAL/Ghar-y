@@ -1,6 +1,32 @@
-
 {
-
+  "ToonsPlus": [
+    {
+      "title": "Tata Play Toons+",
+      "tataSkyid": 994,
+      "link": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_1821/output/manifest.mpd",
+      "k": "e953c724d5735900a2e4ef63d710c552:db24fc8bddfe0d06f67135bae6b74cfe",
+      "audio": [
+        "Hindi",
+        "Tamil",
+        "Telugu",
+        "Bengali",
+        "Marathi",
+        "Punjabi"
+      ],
+      "audio_id": [
+        "audio_94482_hin=94000",
+        "audio_94490_tam=94000",
+        "audio_94483_tel=94000",
+        "audio_94486_ben=94000",
+        "audio_94487_mar=94000",
+        "audio_94494_pan=94000"
+      ],
+      "video_id": "video=1297600",
+      "ripType": "TATAPlay TV-DL",
+      "catchup": "04:09:00",
+      "quality": "480p"
+    }
+  ],
   "CNHD+": [
     {
       "title": "Cartoon Network HD+",
@@ -9,17 +35,15 @@
       "k": "f581424c14e35eee924f0a0b9d22c81c:1b776df9fab529a5055c41dbbb070ccd",
       "audio": [
         "Hindi",
-        "Telugu",
         "English"
       ],
       "audio_id": [
         "audio_94482_hin=94000",
-        "audio_94489_tel=94000",
         "audio_94484_eng=94000"
       ],
       "video_id": "video=3187600",
       "ripType": "TATAPlay TV-DL",
-      "catchup": "02:00:00",
+      "catchup": "00:15:00",
       "quality": "480p"
     }
   ],
@@ -43,7 +67,7 @@
       ],
       "video_id": "video=1297600",
       "ripType": "TATAPlay TV-DL",
-      "catchup": "02:00:00",
+      "catchup": "00:15:00",
       "quality": "480p"
     }
   ],
@@ -57,20 +81,24 @@
         "Tamil",
         "Telugu",
         "Kannada",
-        "Odia",
-        "Malayalam"
+        "Malayalam",
+        "Bengali",
+        "English ",
+        "Marathi"
       ],
       "audio_id": [
         "audio_122092_tam=121600",
         "audio_122093_tel=121600",
         "audio_122087_kan=121600",
-        "audio_122090_ori=121600",
-        "audio_122088_mal=121600"
+        "audio_122088_mal=121600",
+        "audio_122089_mar=121600",
+        "audio_122083_ben=121600",
+        "audio_122086_eng=121600"
       ],
       "video_id": "video=1297600",
       "ripType": "TATAPlay TV-DL",
-      "catchup": "4:00:00",
-      "quality": "480p"
+      "catchup": "04:00:00",
+      "quality": "360p"
     }
   ],
   "CN": [
@@ -92,7 +120,7 @@
       ],
       "video_id": "video=1297600",
       "ripType": "TATAPlay TV-DL",
-      "catchup": "02:00:00",
+      "catchup": "04:09:55",
       "quality": "480p"
     }
   ],
@@ -130,7 +158,6 @@
         "Telugu",
         "Kannada",
         "Bengali",
-        "Marathi",
         "Malayalam"
       ],
       "audio_id": [
@@ -139,12 +166,11 @@
         "audio_122090_tel=121600",
         "audio_122082_kan=121600",
         "audio_122087_ben=121600",
-        "audio_122091_mar=121600",
         "audio_122083_mal=121600"
       ],
       "video_id": "video=1297600",
       "ripType": "TATAPlay TV-DL",
-      "catchup": "02:00:00",
+      "catchup": "04:09:55",
       "quality": "480p"
     }
   ],
@@ -237,7 +263,7 @@
       ],
       "video_id": "video=1297600",
       "ripType": "TATAPlay TV-DL",
-      "catchup": "02:00:00",
+      "catchup": "04:09:55",
       "quality": "480p"
     }
   ],
@@ -293,7 +319,7 @@
       ],
       "video_id": "video=1297600",
       "ripType": "TATAPlay TV-DL",
-      "catchup": "02:00:00",
+      "catchup": "04:09:55",
       "quality": "360p"
     }
   ],
@@ -320,7 +346,7 @@
       ],
       "video_id": "video=1297600",
       "ripType": "TATAPlay TV-DL",
-      "catchup": "02:00:00",
+      "catchup": "4:00:00",
       "quality": "480p"
     }
   ],
@@ -532,3 +558,4 @@
     }
   ]
 }
+
