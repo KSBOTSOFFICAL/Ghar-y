@@ -56,12 +56,12 @@
       "audio": [
         "Hindi",
         "Tamil",
-        "Telugu",
+        "Telugu"
        ],
       "audio_id": [
         "audio_94482_hin=94000",
         "audio_94487_tam=94000",
-        "audio_94489_tel=94000",
+        "audio_94489_tel=94000"
        ],
       "video_id": "video=1297600",
       "ripType": "TATAPlay TV-DL",
@@ -81,15 +81,15 @@
         "Kannada",
         "Malayalam",
         "Bengali",
-        "English ",
+        "English "
        ],
       "audio_id": [
         "audio_122092_tam=121600",
         "audio_122093_tel=121600",
         "audio_122087_kan=121600",
         "audio_122088_mal=121600",
-        "audio_122089_mar=121600",
-        "audio_122083_ben=121600",
+        "audio_122086_eng=121600",
+        "audio_122083_ben=121600"
        ],
       "video_id": "video=1297600",
       "ripType": "TATAPlay TV-DL",
