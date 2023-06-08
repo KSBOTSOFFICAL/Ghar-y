@@ -57,14 +57,12 @@
         "Hindi",
         "Tamil",
         "Telugu",
-        "English"
-      ],
+       ],
       "audio_id": [
         "audio_94482_hin=94000",
         "audio_94487_tam=94000",
         "audio_94489_tel=94000",
-        "audio_94485_eng=94000"
-      ],
+       ],
       "video_id": "video=1297600",
       "ripType": "TATAPlay TV-DL",
       "catchup": "00:15:00",
@@ -84,8 +82,7 @@
         "Malayalam",
         "Bengali",
         "English ",
-        "Marathi"
-      ],
+       ],
       "audio_id": [
         "audio_122092_tam=121600",
         "audio_122093_tel=121600",
@@ -93,8 +90,7 @@
         "audio_122088_mal=121600",
         "audio_122089_mar=121600",
         "audio_122083_ben=121600",
-        "audio_122086_eng=121600"
-      ],
+       ],
       "video_id": "video=1297600",
       "ripType": "TATAPlay TV-DL",
       "catchup": "04:00:00",
@@ -157,7 +153,6 @@
         "Tamil",
         "Telugu",
         "Kannada",
-        "Bengali",
         "Malayalam"
       ],
       "audio_id": [
@@ -165,7 +160,6 @@
         "audio_122094_tam=121600",
         "audio_122090_tel=121600",
         "audio_122082_kan=121600",
-        "audio_122087_ben=121600",
         "audio_122083_mal=121600"
       ],
       "video_id": "video=1297600",
