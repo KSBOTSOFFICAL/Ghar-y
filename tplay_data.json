@@ -80,7 +80,6 @@
         "Telugu",
         "Kannada",
         "Malayalam",
-        "Bengali",
         "English "
        ],
       "audio_id": [
@@ -88,8 +87,7 @@
         "audio_122093_tel=121600",
         "audio_122087_kan=121600",
         "audio_122088_mal=121600",
-        "audio_122086_eng=121600",
-        "audio_122083_ben=121600"
+        "audio_122086_eng=121600"
        ],
       "video_id": "video=1297600",
       "ripType": "TATAPlay TV-DL",
