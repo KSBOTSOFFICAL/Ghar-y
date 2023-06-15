@@ -1,4 +1,4 @@
-# TataPlay_Bot-RC
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/Y1WbM9?referralCode=gNDAfP)
 
 join my channel - https://t.me/RCrips
 
